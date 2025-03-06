@@ -41,7 +41,6 @@ Tested with OBS Version 31.0.1
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-![alt text](image.png)
 
 
 ## Installation and Setup
