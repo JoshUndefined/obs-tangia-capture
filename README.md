@@ -117,7 +117,7 @@ Tested with OBS Version 31.0.1
 [obs-portable-url]: https://obsproject.com/kb/portable-mode
 [tangia-url]: https://www.tangia.co/
 [tangia-interactions-url]: https://app.tangia.co/twitch/interactions/create
-[installer-url]: dist/OBSTangiaCapture.zip
+[installer-url]: https://github.com/JoshUndefined/obs-tangia-capture/releases/download/v1.0.0/OBSTangiaCapture.zip
 
 [project-screenshot]: images/screenshot.png
 [tangia-josh-screenshot]: images/tangiajoshscreenshot.png
